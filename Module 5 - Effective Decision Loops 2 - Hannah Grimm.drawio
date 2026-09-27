@@ -1,0 +1,69 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="Pz8yit7shNvcgq-KT3Zy">
+    <mxGraphModel dx="1030" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-10" edge="1" parent="1" source="flmxfg6yBLo_IP9PgmLG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="flmxfg6yBLo_IP9PgmLG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Start" vertex="1">
+          <mxGeometry height="50" width="120" x="340" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-11" edge="1" parent="1" source="flmxfg6yBLo_IP9PgmLG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="flmxfg6yBLo_IP9PgmLG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="total = 0&lt;div&gt;count = 0&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="340" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-12" edge="1" parent="1" source="flmxfg6yBLo_IP9PgmLG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="flmxfg6yBLo_IP9PgmLG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input number" vertex="1">
+          <mxGeometry height="30" width="150" x="325" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-13" edge="1" parent="1" source="flmxfg6yBLo_IP9PgmLG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="flmxfg6yBLo_IP9PgmLG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="total = total + number" vertex="1">
+          <mxGeometry height="40" width="160" x="320" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-14" edge="1" parent="1" source="flmxfg6yBLo_IP9PgmLG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="flmxfg6yBLo_IP9PgmLG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="count = count + 1" vertex="1">
+          <mxGeometry height="40" width="130" x="335" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-15" edge="1" parent="1" source="flmxfg6yBLo_IP9PgmLG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="flmxfg6yBLo_IP9PgmLG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-17" edge="1" parent="1" source="flmxfg6yBLo_IP9PgmLG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="flmxfg6yBLo_IP9PgmLG-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="560" />
+              <mxPoint x="560" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="count &amp;lt; 10?" vertex="1">
+          <mxGeometry height="60" width="150" x="325" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-16" edge="1" parent="1" source="flmxfg6yBLo_IP9PgmLG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="flmxfg6yBLo_IP9PgmLG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Display&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;Total = &quot; + total&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="320" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="End" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="flmxfg6yBLo_IP9PgmLG-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="390" y="590" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
